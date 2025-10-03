@@ -105,3 +105,5 @@ This project can be expanded by:
 * Building other personas (Interview Coach, Customer Support Bot, etc.).
 
 ---
+✨ This project shows how prompt engineering can create persona-driven assistants.  
+💡 Built as part of my **AI portfolio**. 
